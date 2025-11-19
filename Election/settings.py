@@ -120,8 +120,8 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-EMAIL_ADDRESS = 'dharmarajucaleb4@gmail.com'
-EMAIL_PASSWORD = 'xxrrfssmmqgaaizx'
+EMAIL_ADDRESS = 'example123@gmail.com'
+EMAIL_PASSWORD = 'abcd1234dummy'
 TRANSACTIONS_PER_BLOCK = 1
 
 # PUZZLE
