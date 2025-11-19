@@ -65,7 +65,7 @@ Follow these steps to run the project locally:
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/<your-org>/e-Voting_Django.git
+git clone https://github.com/bkit-solutions/e-Voting_Django.git
 cd e-Voting_Django
 ```
 
